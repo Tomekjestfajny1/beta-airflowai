@@ -16,7 +16,7 @@ This doc has 3 parts:
 
 [.](./ "mention")
 
-[airflow-ai-basic.md](airflow-ai-basic.md "mention")
+[airflow-ai-basic](airflow-ai-basic/ "mention")
 
 [airflow-ai+.md](airflow-ai+.md "mention")
 
