@@ -4,5 +4,5 @@
   * [Info](introduction/info.md)
   * [Invite the bot](introduction/invite-the-bot.md)
 * [Airflow AI Basic](airflow-ai-basic.md)
-  * [Page 1](airflow-ai-basic/page-1.md)
+  * [Commands](airflow-ai-basic/commands.md)
 * [Airflow AI+](airflow-ai+.md)
