@@ -6,3 +6,4 @@
 * [Airflow AI Basic](airflow-ai-basic.md)
   * [Commands](airflow-ai-basic/commands.md)
 * [Airflow AI+](airflow-ai+.md)
+* [Open-Source](open-source.md)

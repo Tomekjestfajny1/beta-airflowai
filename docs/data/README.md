@@ -20,4 +20,6 @@ This doc has 3 parts:
 
 [airflow-ai+.md](airflow-ai+.md "mention")
 
+[open-source.md](open-source.md "mention")
+
 (ofc you can click them <3)
