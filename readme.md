@@ -5,6 +5,7 @@
 ### > Staff: Tomekjestfajny1#3287, ~/icey#0568
 
 Please check the documentation for more info
+---
 **DO NOT CLAIM THE BOT AS YOUR OWN**
 
 ## Platforms
