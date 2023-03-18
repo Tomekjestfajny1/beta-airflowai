@@ -15,3 +15,5 @@ Please check the documentation for more info
 | MacOS | Coming soon |
 | Linux | Coming soon |
 | Mobile | Unavailable |
+
+``
