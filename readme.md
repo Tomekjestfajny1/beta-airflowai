@@ -1,4 +1,4 @@
-# Airflow AI - Open-Source Discord bot
+# Airflow AI > Open-Source Discord bot
 ## Welcome to the official GitHub repository!
 
 ### > Documentation: https://betadocs.icey.fr
